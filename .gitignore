@@ -1,6 +1,6 @@
 work
 .idea
-target
+# target
 bin
 *.iml
 .classpath
@@ -9,3 +9,5 @@ bin
 *~
 *.sw
 rebel.xml
+target/*
+!target/*.hpi
